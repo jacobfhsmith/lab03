@@ -1,0 +1,66 @@
+---
+title: "Lab 03"
+author: ''
+date: ''
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+editor_options:
+  chunk_output_type: console
+subtitle: 'due Sat, Feb 06 11:59 PM '
+---
+
+```{r load-packages, message = FALSE}
+library(tidyverse)
+```
+
+And then read in the data.
+
+```{r load-data, message = FALSE}
+lego <- read_csv("~/R/lego.csv")
+```
+
+# Exercise 1
+
+```{r ex-1}
+```
+
+# Exercise 2
+
+```{r ex-2}
+```
+
+Describe the three most expensive sets here. Omit this prompt when you are 
+finished.
+
+# Exercise 3
+
+```{r ex-3}
+```
+
+# Exercise 4
+
+```{r ex-4}
+```
+
+Describe what you notice about the sets with the highest price per piece. Omit
+this prompt when you are finished.
+
+# Exercise 5
+
+```{r ex-5}
+```
+
+# Exercise 6
+
+```{r ex-6}
+```
+
+# Exercise 7
+
+```{r ex-7}
+```
+
+Comment on what you observe in the plot above. Omit this prompt when you are
+finished.
